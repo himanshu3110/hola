@@ -1,6 +1,6 @@
 nothing to read
 ok i have read
-vi:ls
+vi:lssdfsdfedsfedfewe
 
 :q
 
