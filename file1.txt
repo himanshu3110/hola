@@ -1,1 +1,8 @@
-file1 changed
+add a branch to github
+git push origin branch_name
+
+deleting a branch from github
+git push origin :branch_name
+
+deleting a branch in terminal
+git branch -d branch_name
