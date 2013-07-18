@@ -1,3 +1,5 @@
+some important commands:
+
 add a branch to github
 git push origin branch_name
 
@@ -9,3 +11,5 @@ git branch -d branch_name
 
 a branch is added at github.com and to show this at terminal 
 git checkout -b branch_name
+
+
