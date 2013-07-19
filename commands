@@ -13,3 +13,6 @@ a branch is added at github.com and to show this at terminal
 git checkout -b branch_name
 
 gpg --gen-key 
+
+setting up alias:-
+git config --global alias.co checkout
