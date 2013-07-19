@@ -16,3 +16,7 @@ gpg --gen-key
 
 setting up alias:-
 git config --global alias.co checkout
+
+creating a tag:- git tag tag_name
+pushing a tag:- git push origin tag_name
+
